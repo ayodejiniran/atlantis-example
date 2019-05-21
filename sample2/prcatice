@@ -1,0 +1,8 @@
+# Create a new branch
+$ git branch <branch_name>
+
+# List all remote or local branches
+$ git branch -a
+
+# Delete a branch
+$ git branch -d <branch_name>
